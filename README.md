@@ -6,25 +6,30 @@
 
 This project improves the coffee shop's analytical capabilities by utilizing an Excel dashboard for sales information. The goal of analyzing transaction data is to get important insights regarding customer behavior, product popularity, sales patterns, and operational efficiencies. The purpose is to optimize inventory management, improve decision-making processes, and find possible cross-selling opportunities.
 
+**DataSet:**
+
+This project delves into the sales data of Transaction records from a fictitious coffee shop in New York City to uncover valuable insights and trends. Using Excel, we meticulously cleaned, analyzed, and visualized the data to help understand the business's performance across various dimensions. The original data set was posted on Data Playground.
+
+
 **Project Task:**
 
-Data collection, cleaning, and preparation.
+* Data collection, cleaning, and preparation.
 
-Analyse monthly, daily, and hourly sales patterns with Power PivotTables.
+* Analyse monthly, daily, and hourly sales patterns with Power PivotTables.
 
-Determine high-performing days and times.
+* Determine high-performing days and times.
 
-Develop compelling reports and visualization.
+* Develop compelling reports and visualization.
 
-Create an Interactive dashboard.
+* Create an Interactive dashboard.
 
 **Key Findings:**
 
-Most transactions occur between 8:00 a.m. and 10:00 a.m., showing a morning sales peak.
+* Most transactions occur between 8:00 a.m. and 10:00 a.m., showing a morning sales peak.
 
-Monday, Thursday, and Friday have been noted as high transaction days, reflecting greater customer engagement on these days.
+* Monday, Thursday, and Friday have been noted as high transaction days, reflecting greater customer engagement on these days.
 
-Lower Manhattan shows fewer sales than other stores.
+* Lower Manhattan shows fewer sales than other stores.
 
 **Conclusion:**
 
