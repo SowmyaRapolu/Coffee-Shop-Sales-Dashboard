@@ -47,8 +47,10 @@
 **📷 DASHBOARD PREVIEW:**
 
   Finally, the dashboard was created by inserting and customizing the pivot charts of corresponding pivot table on a separate sheet named “Dashboard”.
+  
+  Below is a snippet of the final dashboard in Excel.
 
-  * [Coffee Shop Sales Dashboard](Screenshot 2025-07-15 203842.png)
+  * [Coffee Shop Sales Dashboard](https://github.com/SowmyaRapolu/Coffee-Shop-Sales-Dashboard/blob/main/Screenshot%202025-07-15%20203842.png)
 
 
 
