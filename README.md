@@ -69,4 +69,4 @@
   Through meticulous data analysis and visualization using an Excel dashboard, this project reveals key insights for optimizing coffee shop's operations. Peak transaction times, high-performing days, and areas for improvement in Lower-Manhattan are identified. By leveraging these findings, you can enhance customer experiences, refine inventory management, and boost overall sales efficiency for a thriving coffee shop venture.
 
 **🔗END**
-  [Thank you for your interest and time. Feel free to give your valuable suggestions and connect with me on](www.linkedin.com/in/sowmya-rapolu)
+  Thank you for your interest and time. Feel free to give your valuable suggestions and connect with me on [LinkedIn](www.linkedin.com/in/sowmya-rapolu)
