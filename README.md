@@ -48,7 +48,7 @@
 
   Finally, the dashboard was created by inserting and customizing the pivot charts of corresponding pivot table on a separate sheet named “Dashboard”.
 
-  * Coffee Shop Sales Dashboard [Screenshot 2025-07-15 203842.png]
+  * [Coffee Shop Sales Dashboard](Screenshot 2025-07-15 203842.png)
 
 
 
