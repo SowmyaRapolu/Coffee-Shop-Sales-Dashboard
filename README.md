@@ -9,7 +9,8 @@
 
 **🔗DATA SET:**
 
-  This project delves into the sales data of Transaction records from a fictitious coffee shop in New York City to uncover valuable insights and trends. Using Excel, we meticulously cleaned, analyzed, and visualized the data to help understand the business's performance across various dimensions. The original data set was posted on Maven analytics-Data Playground.    (https://maven-datasets.s3.amazonaws.com/Coffee+Shop+Sales/Coffee+Shop+Sales.zip)
+  This project delves into the sales data of Transaction records from a fictitious coffee shop in New York City to uncover valuable insights and trends. Using Excel, we meticulously cleaned, analyzed, and visualized the data to help understand the business's performance across various dimensions. The original data set was posted on Maven analytics-Data Playground.   
+  (https://maven-datasets.s3.amazonaws.com/Coffee+Shop+Sales/Coffee+Shop+Sales.zip)
 
 
 **🧰 TOOLS USED:**
